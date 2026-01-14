@@ -1,0 +1,1 @@
+![изображение](./screenshots/screenshot.png)
