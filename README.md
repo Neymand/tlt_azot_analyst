@@ -1,1 +1,1 @@
-![изображение](./screenshots/screenshot.png)
+![screenshot.png](https://github.com/Neymand/tlt_azot_analyst/blob/main/screenshot/screenshot.png)
